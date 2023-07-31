@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useRouter } from "next/router";
 import { Button } from "./Button";
 import { Modal } from "./Overlay";
+import Image from "next/image";
 
 const data = [
   {
@@ -86,9 +87,10 @@ function Post({ kelas, link, token }) {
 
   return (
     <article className="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 dark:bg-gray-400 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
-      <img
-        src="https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3603&q=80"
-        alt=""
+      <Image
+        src={"/cover.avif"}
+        width={800}
+        height={400}
         className="absolute inset-0 -z-10 h-full w-full object-cover"
       />
       <div className="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40 to-gray-900/0" />

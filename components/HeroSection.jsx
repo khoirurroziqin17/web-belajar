@@ -144,7 +144,7 @@ export default function HeroSection() {
               Dokumentasi materi, contoh soal, latihan soal, dan nilai IPA siswa
             </p>
             <p className="text-lg leading-8 text-gray-800 font-medium dark:text-gray-300">
-              MTs. Mambaul 'Ulum Gedangan
+              MTs. Mambaul &apos;Ulum Gedangan
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
