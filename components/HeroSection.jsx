@@ -1,9 +1,12 @@
+"use client";
+
 import { useState } from "react";
 import Link from "next/link";
 import { Dialog } from "@headlessui/react";
-import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
+import { Bars3Icon, MoonIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import { useTheme } from "next-themes";
 import { Switch } from "./Button";
+import { SunIcon } from "@heroicons/react/24/outline";
 
 const navigation = [
   { name: "Kelas 7", href: "/kelas-7" },
@@ -57,7 +60,13 @@ export default function HeroSection() {
                 theme == "dark" ? setTheme("light") : setTheme("dark")
               }
             >
-              <Switch />
+              <Switch defaultState={currentTheme == "dark"}>
+                {currentTheme == "dark" ? (
+                  <SunIcon className="h-4 w-4 text-black" />
+                ) : (
+                  <MoonIcon className="h-4 w-4 text-black" />
+                )}
+              </Switch>
             </div>
           </div>
         </nav>
@@ -98,14 +107,19 @@ export default function HeroSection() {
                   ))}
                 </div>
                 <div className="py-6">
-                  <button
+                  <div
                     onClick={() =>
                       theme == "dark" ? setTheme("light") : setTheme("dark")
                     }
-                    className="bg-gray-800 dark:bg-gray-50 hover:bg-gray-600 dark:hover:bg-gray-300 transition-all duration-100 text-white dark:text-gray-800 px-8 py-2 text-2xl md:text-4xl rounded-lg absolute bottom-32"
                   >
-                    Toggle Mode
-                  </button>
+                    <Switch defaultState={currentTheme == "dark"}>
+                      {currentTheme == "dark" ? (
+                        <SunIcon className="h-4 w-4 text-black" />
+                      ) : (
+                        <MoonIcon className="h-4 w-4 text-black" />
+                      )}
+                    </Switch>
+                  </div>
                 </div>
               </div>
             </div>

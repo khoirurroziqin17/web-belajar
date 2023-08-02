@@ -89,9 +89,10 @@ function Post({ kelas, link, token }) {
     <article className="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 dark:bg-gray-400 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
       <Image
         src={"/cover.avif"}
-        width={800}
-        height={400}
+        alt=""
         className="absolute inset-0 -z-10 h-full w-full object-cover"
+        sizes="100%"
+        fill
       />
       <div className="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40 to-gray-900/0" />
       <div className="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
@@ -116,8 +117,8 @@ function Post({ kelas, link, token }) {
               type="text"
               className={`block w-full text-sm leading-6 rounded-md border-0 py-1.5 pl-2 pr-10 outline-none ring-1 ring-inset   focus:ring-2 focus:ring-inset  ${
                 invalid
-                  ? "text-red-900 ring-red-300 placeholder:text-red-300 focus:ring-red-500"
-                  : "text-gray-900 ring-gray-300 placeholder:text-gray-300 focus:ring-gray-500"
+                  ? "text-red-900 ring-red-300 placeholder:text-red-300 focus:ring-red-500 dark:text-white"
+                  : "text-gray-900 ring-gray-300 placeholder:text-gray-300 focus:ring-gray-500 dark:text-white"
               }`}
               onChange={(e) => setConfirmToken(e.target.value)}
               placeholder="Masukkan token"
