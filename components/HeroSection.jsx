@@ -97,11 +97,11 @@ export function Navigation() {
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
-          <a href="#" className="-m-1.5 p-1.5">
+          <Link href="/" className="-m-1.5 p-1.5">
             <h1 className="uppercase text-lg font-semibold dark:text-white">
               zy.qn
             </h1>
-          </a>
+          </Link>
         </div>
         <div className="flex lg:hidden">
           <button
