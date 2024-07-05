@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 import { useRouter } from "next/router";
 import { Button } from "./Button";
@@ -65,7 +67,7 @@ export default function DaftarNilai() {
 }
 
 function Post({ kelas, link, token }) {
-  const router = useRouter();
+  // const router = useRouter();
   const [confirmToken, setConfirmToken] = useState("");
   const [isOpen, setIsOpen] = useState(false);
   const [invalid, setInvalid] = useState(false);
