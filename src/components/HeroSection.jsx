@@ -13,6 +13,7 @@ const navigation = [
   { name: "Kelas 8", href: "/kelas-8" },
   { name: "Kelas 9", href: "/kelas-9" },
   { name: "Tes Kemampuan Awal", href: "/tkm-2024" },
+  { name: "WA Grup", href: "/wag" },
 ];
 
 export default function HeroSection() {
