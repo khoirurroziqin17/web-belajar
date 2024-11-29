@@ -215,9 +215,11 @@ function ModalConfirm({ link, kelas, mapel, waktu, children }) {
           <AlertDialogCancel>Batal</AlertDialogCancel>
           <AlertDialogAction
             disabled={disabled}
-            className="text-white bg-neutral-950 dark:text-black dark:bg-white"
+            className="text-white bg-neutral-950 dark:text-black dark:bg-white p-0"
           >
-            <Link href={`${kelas}/${link}`}>Mulai</Link>
+            <Link className="w-full h-full px-4 py-2" href={`${kelas}/${link}`}>
+              Mulai
+            </Link>
           </AlertDialogAction>
         </AlertDialogFooter>
       </AlertDialogContent>
