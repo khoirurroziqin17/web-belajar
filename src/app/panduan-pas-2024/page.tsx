@@ -96,7 +96,7 @@ export default function Page() {
               Coba Simulasi Ujian
             </h3>
             <p className="mt-2 text-lg leading-8 font-medium text-gray-600 dark:text-gray-300">
-              Silah coba simulasi ujian bagi kelas 7 melalui link berikut:{" "}
+              Silakan coba simulasi ujian bagi kelas 7 melalui link berikut:{" "}
               <br />
               <Link
                 href={"/pas-2024"}
