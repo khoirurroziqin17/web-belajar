@@ -11,7 +11,7 @@ export default function Page() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-center sm:text-4xl dark:text-white">
-              Panduan memakses link soal PAS 2024
+              Panduan mengakses link soal PAS 2024
             </h2>
             <p className="mt-6 text-lg leading-8 font-medium text-gray-600 dark:text-gray-300">
               1. Pilih kelas yang sesuai. <br /> 2. Pilih mata pelajaran sesuai
