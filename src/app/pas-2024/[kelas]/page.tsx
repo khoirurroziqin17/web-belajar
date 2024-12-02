@@ -66,7 +66,11 @@ const Daftarpelajaran = [
       ],
       [
         "Akidah Akhlak",
-        ["#", "#", "#"],
+        [
+          "1FAIpQLSeDoXTtBK3p5fgRDigIPaxqVkARgQSa1uPCRMFTiF0Jo-TYrA",
+          "1FAIpQLSdBFs012HpL3cNH_iP9UxlgN1nI91AGxpzxA0bbp1zlLnhrDg",
+          "1FAIpQLSfACwJAPjz1LQFY5VktSkx4leeJMcai-JYBvBqu6btI4jyitg",
+        ],
         "December 3, 24 10:00:00 GMT+07:00",
         "December 3, 24 11:30:00 GMT+07:00",
       ],
