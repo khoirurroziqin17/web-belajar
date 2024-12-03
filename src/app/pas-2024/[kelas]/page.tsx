@@ -37,7 +37,7 @@ const Daftarpelajaran = [
           "1FAIpQLSd51g2o3LFABgcK01uxP4DYQ1XX-QMomuMKPdapeDwuLFOFfQ",
         ],
         "December 2, 24 07:30:00 GMT+07:00",
-        "December 2, 24 13:00:00 GMT+07:00",
+        "December 3, 24 13:00:00 GMT+07:00",
       ],
       [
         "Fikih",
@@ -47,7 +47,7 @@ const Daftarpelajaran = [
           "1FAIpQLSffwl5ctAYus--uXYXbafr4ZDeWhUqKWwMao1qLdGcSEVHoqg",
         ],
         "December 2, 24 10:00:00 GMT+07:00",
-        "December 2, 24 11:30:00 GMT+07:00",
+        "December 3, 24 13:00:00 GMT+07:00",
       ],
     ],
   },
