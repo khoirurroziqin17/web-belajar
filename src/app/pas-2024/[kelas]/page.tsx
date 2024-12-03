@@ -62,7 +62,7 @@ const Daftarpelajaran = [
           "1FAIpQLSf2Y369aTnxIPYvJdK2_YKGXefOKbH3Nnlc_AdaEkqpIiF7XA",
         ],
         "December 3, 24 07:30:00 GMT+07:00",
-        "December 3, 24 09:30:00 GMT+07:00",
+        "December 3, 24 12:30:00 GMT+07:00",
       ],
       [
         "Akidah Akhlak",
