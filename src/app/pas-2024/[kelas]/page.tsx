@@ -91,7 +91,11 @@ const Daftarpelajaran = [
       ],
       [
         "Alquran Hadits",
-        ["#", "#", "#"],
+        [
+          "1FAIpQLScu6_6U8GxYulFxPbmkVmyIoC2IT70NFGTaxNTqTVKM-33lOA",
+          "1FAIpQLSdrVHgCZ1QMtUB1mNK7GUWxPDojfpFxkdWnQtcd4GuaWCyQtw",
+          "1FAIpQLScpRrokrVbxmPCkX2hIX-teciaOJBcO1XmBq6WagPhr7QgFBQ",
+        ],
         "December 4, 24 10:00:00 GMT+07:00",
         "December 4, 24 11:30:00 GMT+07:00",
       ],
