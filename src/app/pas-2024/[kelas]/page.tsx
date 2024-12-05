@@ -109,7 +109,7 @@ const Daftarpelajaran = [
         [
           "1FAIpQLScSstPnmvKy_eaPQRLbG1-v3akPxZzoS05_g6J8lRV_8a0_Pw",
           "1FAIpQLSebADWHgZAAzyxLEgFlny53RoirfpfTeAngxuhs5-NCaZjLIw",
-          "1FAIpQLSe5qqfrPFkKO1TAgsbHn4QQejbzG-M97qIfiqdwqxrhY3APpw",
+          "1FAIpQLSe8KRBRB43VTTX85enWvohOX4puHG_CwlY6i1C-zTeFWTPDHw",
         ],
         "December 5, 24 07:30:00 GMT+07:00",
         "December 5, 24 09:30:00 GMT+07:00",
@@ -153,7 +153,7 @@ const Daftarpelajaran = [
     pelajaran: [
       [
         "Bahasa Arab",
-        ["#", "#", "#"],
+        ["#", "1FAIpQLScPEIrMljx_bwVQLQNYqIlOKK-oGl0J3nbdVDCoMw5yA6Z5QQ", "#"],
         "December 9, 24 07:30:00 GMT+07:00",
         "December 9, 24 09:30:00 GMT+07:00",
       ],
@@ -180,7 +180,11 @@ const Daftarpelajaran = [
       ],
       [
         "Prakarya / Informatika",
-        ["1FAIpQLSfIwz-vdm7cENt2iBePAt9GKU6Hgth5N-Pupu9JQ60UqEzr2Q", "#", "#"],
+        [
+          "1FAIpQLSfIwz-vdm7cENt2iBePAt9GKU6Hgth5N-Pupu9JQ60UqEzr2Q",
+          "1FAIpQLSedb-Eywcao7rrHebtR7CtYliWBXRHLHfHDVKN3ZZuYmnqo7A",
+          "1FAIpQLSc5Rp3mBwL1ZRgSiC1UjUFYJZcmBaZetcPzrVXQUo4mXDhm7w",
+        ],
         "December 10, 24 10:00:00 GMT+07:00",
         "December 10, 24 11:30:00 GMT+07:00",
       ],
