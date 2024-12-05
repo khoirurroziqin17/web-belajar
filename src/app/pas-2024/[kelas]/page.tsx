@@ -112,7 +112,7 @@ const Daftarpelajaran = [
           "1FAIpQLSe8KRBRB43VTTX85enWvohOX4puHG_CwlY6i1C-zTeFWTPDHw",
         ],
         "December 5, 24 07:30:00 GMT+07:00",
-        "December 5, 24 09:30:00 GMT+07:00",
+        "December 5, 24 10:00:00 GMT+07:00",
       ],
       [
         "Sejarah Kebudayaan Islam",
