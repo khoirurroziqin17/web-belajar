@@ -122,7 +122,7 @@ const Daftarpelajaran = [
           "1FAIpQLSdw8curUdg3MSLC8RlcJdlAPSQBmTmFcQHo5qB-S7ZwnJXlvQ",
         ],
         "December 5, 24 10:00:00 GMT+07:00",
-        "December 5, 24 11:30:00 GMT+07:00",
+        "December 5, 24 12:30:00 GMT+07:00",
         ,
       ],
     ],
