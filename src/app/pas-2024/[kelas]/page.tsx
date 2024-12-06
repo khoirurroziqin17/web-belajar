@@ -142,7 +142,11 @@ const Daftarpelajaran = [
       ],
       [
         "Ke-NU-An",
-        ["#", "#", "#"],
+        [
+          "1FAIpQLScH-XK9gZvlXCuj0ASOvrd5s-7zvraM2j-D-FRru07Fo8x2Pw",
+          "1FAIpQLScLk_SBGiWaoB53sQ0XXdk1K9xlYCGwuX6Sugn3wIDelyOxQQ",
+          "1FAIpQLScLk_SBGiWaoB53sQ0XXdk1K9xlYCGwuX6Sugn3wIDelyOxQQ",
+        ],
         "December 6, 24 09:15:00 GMT+07:00",
         "December 6, 24 10:45:00 GMT+07:00",
       ],
