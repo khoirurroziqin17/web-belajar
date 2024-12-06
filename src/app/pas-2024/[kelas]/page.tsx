@@ -145,7 +145,7 @@ const Daftarpelajaran = [
         [
           "1FAIpQLScH-XK9gZvlXCuj0ASOvrd5s-7zvraM2j-D-FRru07Fo8x2Pw",
           "1FAIpQLScLk_SBGiWaoB53sQ0XXdk1K9xlYCGwuX6Sugn3wIDelyOxQQ",
-          "1FAIpQLScLk_SBGiWaoB53sQ0XXdk1K9xlYCGwuX6Sugn3wIDelyOxQQ",
+          "1FAIpQLSd4cXZIgBEpHAQN0l6cv2cBpJ4aQrupmTpYrL3Yxc8XYgBgPA",
         ],
         "December 6, 24 09:05:00 GMT+07:00",
         "December 6, 24 10:20:00 GMT+07:00",
