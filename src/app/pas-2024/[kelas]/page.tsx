@@ -157,13 +157,21 @@ const Daftarpelajaran = [
     pelajaran: [
       [
         "Bahasa Arab",
-        ["#", "1FAIpQLScPEIrMljx_bwVQLQNYqIlOKK-oGl0J3nbdVDCoMw5yA6Z5QQ", "#"],
+        [
+          "1FAIpQLSfUZgQ5q7dMMCAQbE6867pfffOGGYvCLKSkIRfLx0o-Sx5Y5g",
+          "1FAIpQLScPEIrMljx_bwVQLQNYqIlOKK-oGl0J3nbdVDCoMw5yA6Z5QQ",
+          "1FAIpQLSfkplF_R0mcM7vvdnXUrMa_szA0PukgKUfoyKSxRAEwkyN-LQ",
+        ],
         "December 9, 24 07:30:00 GMT+07:00",
         "December 9, 24 09:30:00 GMT+07:00",
       ],
       [
         "Seni Budaya",
-        ["#", "#", "#"],
+        [
+          "1FAIpQLSeAPACulhWCtiNVUK3x3iYtROwlhz_huFwLbap1njykeUBTTQ",
+          "1FAIpQLSc-K5t8uTTmDWIP7668wmfDQYbyhMPYdN5KD4Bft3BXTAYvfA",
+          "1FAIpQLSd7wBkBnW4T6y1NaTV1I9O6F1YA6uxsZLUSFIU5s8SPqVVDAQ",
+        ],
         "December 9, 24 10:00:00 GMT+07:00",
         "December 9, 24 11:30:00 GMT+07:00",
       ],
@@ -210,7 +218,11 @@ const Daftarpelajaran = [
       ],
       [
         "Pendidikan Jasmani, Olahraga, dan Kesehatan",
-        ["#", "#", "#"],
+        [
+          "1FAIpQLSeJCWNOcGtdMeETSkW52xdr_-Ka1wvE9_IzHGHpo-yHFFmSyQ",
+          "1FAIpQLSdMQUFh0cdR25AH-Ps93XrcTPTXn8TJL_i6zyjBI_jAm_NOGw",
+          "1FAIpQLSeXUyvUJdi6FopgZW7Q4p6Crrf4UmJEZo5SgkHCAnLRDXhhmw",
+        ],
         "December 11, 24 09:30:00 GMT+07:00",
         "December 11, 24 11:00:00 GMT+07:00",
       ],
